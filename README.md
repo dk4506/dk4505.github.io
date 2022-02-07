@@ -19,8 +19,8 @@ fs
 
 c
 
-#Heddda
-##ANONACNA
-###OQIWHQFBWCOI
+#HOSGELDINIZ
+##AMINAKODUKLARIM
+###:D
 ####NIMSA,PA
 
