@@ -8,13 +8,8 @@ sf
 
 eg
 
-wq
-e1
-23
-23
-14
-34
-
+MERHABALAR
+AQLARIM
 fs
 
 c
